@@ -1,2 +1,2 @@
 # desktop-to-mobile-screen
-https://www.figma.com/proto/zYiyEUDpH3KgHuTu9K98qm/Untitled?node-id=45-108&t=WHyGyN7BQDMkZFTV-1
+https://www.figma.com/design/zYiyEUDpH3KgHuTu9K98qm/Untitled?node-id=45-108&p=f&t=WHyGyN7BQDMkZFTV-0
